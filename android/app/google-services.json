@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "160617039800",
+    "firebase_url": "https://phoneauthen-e7eb3.firebaseio.com",
+    "project_id": "phoneauthen-e7eb3",
+    "storage_bucket": "phoneauthen-e7eb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160617039800:android:e2a6a415b652869b",
+        "android_client_info": {
+          "package_name": "com.splashexmaple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160617039800-64l87c8q6ic94tk5cgbb94hdmnag80qr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.splashexmaple",
+            "certificate_hash": "e45e91cec3113822bed9f4709526d1170bafd76e"
+          }
+        },
+        {
+          "client_id": "160617039800-65tts9o3fob31k9bdhdjnac4l2ue004p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3xgkgveDLgMTQQ0Eqx_7RgdGKNM-Y7ls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160617039800-65tts9o3fob31k9bdhdjnac4l2ue004p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
